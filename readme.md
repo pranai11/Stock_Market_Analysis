@@ -1,3 +1,7 @@
+# Disclaimer
+
+This project is in the early stages of development and is evolving into an Algorithmic Trading system. Currently, the focus is on market analysis using various data sources and tools, with plans for future enhancements towards building a fully functional trading algorithm. The project is intended for educational and research purposes and should not be considered a complete solution for trading at this stage.
+
 # Algorithmic Stock Analysis and Trading
 
 This repository contains Python-based tools and algorithms for analyzing and trading stocks using **yfinance** and the **NSE API**. The project leverages various datasets and methods to provide insights into stock trends, index movements, and delisted securities.
